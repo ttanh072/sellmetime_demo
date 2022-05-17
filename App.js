@@ -7,7 +7,7 @@ import Login from './src/screens/Login';
 const App = () => {
     return (
         <View style={{flex:1}}>
-          <Login/>
+          <Login/>s
         </View>
     )
 };
