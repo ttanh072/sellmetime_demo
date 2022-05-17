@@ -1,4 +1,5 @@
 import { StyleSheet } from "react-native";
+import { NavigationActions } from "react-navigation";
 
 const styles = StyleSheet.create({
     container:{
@@ -9,13 +10,10 @@ const styles = StyleSheet.create({
         height: '100%'
     },
     logo: {
-        flex: 6,
-        width:300,
-        height:400
+        flex: 1,
+        width:200,
+        height:300
     },
-    text: {
-        flex: 1
-    }
 }) 
 
 export default styles;
