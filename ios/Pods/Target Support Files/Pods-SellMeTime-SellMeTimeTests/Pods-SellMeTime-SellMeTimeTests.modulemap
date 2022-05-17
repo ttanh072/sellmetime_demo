@@ -1,0 +1,6 @@
+module Pods_SellMeTime_SellMeTimeTests {
+  umbrella header "Pods-SellMeTime-SellMeTimeTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
